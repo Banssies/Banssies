@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌙 Nahlla Ondracka-O'Connor 🌙  
+# 🌙 Nahlla ALias Banssies🌙  
 ### 🕯 Pastel Moonlit Dev | 🎨 Web Development Student | 🛡 Support Main  
 
 <img src="https://readme-typing-svg.herokuapp.com?color=C8B6E2&center=true&vCenter=true&lines=Design+with+intention.;Code+with+structure.;Support+diff." />
