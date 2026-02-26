@@ -79,7 +79,8 @@ Elegance ≠ fragility
 I build quietly.  
 I learn intentionally.  
 I protect the experience.
-Shy Says Hi
+
+With loving support from fam and Friends
 
 <div align="center">
 
