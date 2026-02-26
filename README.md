@@ -10,8 +10,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C8B6E2,100:F8C8DC&section=header&reversal=false"/>
 
 ## 🌸 About Me  
-
-Web Development student 
+Hello There
+Web Development student here
 
 I approach development the way I approach support roles —  
 aware of the system, protective of the experience, intentional in execution.
@@ -79,6 +79,7 @@ Elegance ≠ fragility
 I build quietly.  
 I learn intentionally.  
 I protect the experience.
+Shy Says Hi
 
 <div align="center">
 
